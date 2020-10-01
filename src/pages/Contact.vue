@@ -4,7 +4,7 @@
 
       <div class="contact-header">
         <h1 class="contact-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <p>Leave us a note with any questions you might have, we'll get back to you as soon as possible.</p>
       </div>
 
       <form class="contact-form" name="contact">
@@ -42,6 +42,8 @@ export default {}
   padding: 2rem 0 4rem 0;
 }
 .contact-title {
+  font-family: Garamond,Baskerville,Baskerville Old Face,Hoefler Text,Times New Roman,serif; 
+  font-weight: 400;
   font-size: 4rem;
   margin: 0 0 4rem 0;
   padding: 0;
